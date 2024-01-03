@@ -1,0 +1,14 @@
+input[type=text] {
+    border:none;
+    border-bottom:1px solid gray;
+    background-color:transparent;
+    width: 100%;
+  }
+  form{
+    margin: auto;
+  }
+  h3{
+    background-color: #98AFC7;
+    margin-bottom: 0;
+    margin-top: 15px;
+  }
